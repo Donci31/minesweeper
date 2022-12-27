@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MineSweeper</string>
+    <string name="easy_game">Easy Game</string>
+    <string name="medium_game">Medium Game</string>
+    <string name="hard_game">Hard Game</string>
+    <string name="stats">Stats</string>
+    <string name="flags">Flags: %d</string>
+    <string name="time">Time: %02d:%02d</string>
+</resources>
